@@ -3,6 +3,14 @@
 
 I’m a Data Science graduate student at ASU with a strong foundation in machine learning and data-driven research. I enjoy building scalable Machine Learning models that solve real-world problems.
 
+## Certifications, Job Simulations & Programs:
+
+- Junior Cybersecurity Certification — Cisco  
+- Ethical Hacking Essentials — EC-Council  
+- Data Analysis Job Simulation — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7339414769461882880-UA4y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
+- GenAI Powered Data Analytics — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7341273271260127233-3MNd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)   
+- Quantitative Research Job Simulation — [Link](https://www.linkedin.com/posts/amoghrrao03_forage-certificate-activity-7348101994152136705-_5TC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
+
 # Tech Stack:
 **Languages:**
 
@@ -66,13 +74,7 @@ I’m a Data Science graduate student at ASU with a strong foundation in machine
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Certifications, Job Simulations & Programs:
 
-- Junior Cybersecurity Certification — Cisco  
-- Ethical Hacking Essentials — EC-Council  
-- Data Analysis Job Simulation — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7339414769461882880-UA4y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
-- GenAI Powered Data Analytics — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7341273271260127233-3MNd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)   
-- Quantitative Research Job Simulation — [Link](https://www.linkedin.com/posts/amoghrrao03_forage-certificate-activity-7348101994152136705-_5TC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
 
 
 # GitHub Stats:
