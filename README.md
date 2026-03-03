@@ -10,6 +10,7 @@ I’m a Data Science graduate student at ASU with a strong foundation in machine
 - Data Analysis Job Simulation — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7339414769461882880-UA4y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
 - GenAI Powered Data Analytics — [Link](https://www.linkedin.com/posts/amogh-r-rao03_forage-certificate-activity-7341273271260127233-3MNd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)   
 - Quantitative Research Job Simulation — [Link](https://www.linkedin.com/posts/amoghrrao03_forage-certificate-activity-7348101994152136705-_5TC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdLpZQBp7tN_y__Q-5_bA0swwVtpVch05Q)  
+- AWS Certified Cloud Practitioner (CCP) — [Link](https://www.credly.com/badges/2149a443-02c1-4d21-9e23-44cb34f77dd9/linked_in_profile)
 
 # Tech Stack:
 **Languages:**
